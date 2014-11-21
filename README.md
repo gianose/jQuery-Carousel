@@ -1,3 +1,3 @@
-The Carousel class was written in order allow for a slide show with fade transition to be added website with minimal effort.
-The Carousel depends on the Slide, Queue, Toggle, and Panel class to function correctly.
+The Carousel class was written in order allow for a slide show with fade transition to be added a website with minimal effort.
+The Carousel class depends on the Slide, Queue, Toggle, and Panel class to function correctly.
 .... 
