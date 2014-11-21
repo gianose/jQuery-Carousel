@@ -1,1 +1,3 @@
-This repository consists of projects that were created during the process of learning jQuery.
+The Carousel class was written in order allow for a slide show with fade transition to be added website with minimal effort.
+The Carousel depends on the Slide, Queue, Toggle, and Panel class to function correctly.
+.... 
